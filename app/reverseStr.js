@@ -12,7 +12,7 @@ module.exports = {
 	if(str.split('').reverse().join('') === str){
 	  return true;
 	}else{
-		return str.split('').reverse().join('');
+	  return str.split('').reverse().join('');
 	}	
   }
 }
