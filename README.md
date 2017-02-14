@@ -19,5 +19,5 @@ If the reverse of the string is the same as the original string, as in the case 
 1. Clone or download this repo
 2. You should have nodeJs installed on your PC
 3. Run npm install
-4. You need an API key from [NewYork Times](http://developer.nytimes.com "NewYork Times")
-5. Create a .env file in the root folder and assign your API key to the variable API_KEY.
+4. Get an API key from [NewYork Times](http://developer.nytimes.com "NewYork Times")
+5. Replace your API key with process.env.API_KEY in api.js.
