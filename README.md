@@ -16,8 +16,8 @@ If the reverse of the string is the same as the original string, as in the case 
 
 * A simple command line application that consumes a Public API using a HTTP client library. (No test is written for this)
 > For the API task
-> *Clone or download this repo
-> *You should have nodeJs installed on your PC
-> *Run npm install
-> *You need an API key from [NewYork Times](http://developer.nytimes.com "NewYork Times"), then 
-> *Create a .env file in the root folder and assign your API key to the variable API_KEY.
+  *Clone or download this repo
+  *You should have nodeJs installed on your PC
+  *Run npm install
+  *You need an API key from [NewYork Times](http://developer.nytimes.com "NewYork Times"), then 
+  *Create a .env file in the root folder and assign your API key to the variable API_KEY.
