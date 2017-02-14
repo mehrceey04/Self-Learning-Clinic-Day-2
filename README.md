@@ -15,3 +15,9 @@ For example for the input `olly olly in come free`, the output should be
 If the reverse of the string is the same as the original string, as in the case of palindromes, return true instead.
 
 * A simple command line application that consumes a Public API using a HTTP client library. (No test is written for this)
+> *For the API task*
+> Clone or download this repo
+> You should have nodeJs installed on your PC
+> Run npm install
+> You need an API key from developer.nytimes.com, then 
+> Create a .env file in the root folder and assign your API key to the variable API_KEY.
